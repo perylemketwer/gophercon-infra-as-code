@@ -96,4 +96,7 @@ terraform.rc
 .history
 .ionide
 
+# Env files
+.env
+
 # End of https://www.toptal.com/developers/gitignore/api/go,pulumi,terraform,pulumi+stacks,visualstudiocode
